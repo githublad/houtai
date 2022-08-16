@@ -2,7 +2,7 @@ package com.atguigu.单例;
 
 /**
  * 饿汉模式
- *
+ *类注释
  * 类加载时即会 创建对象
  * @version 1.0
  * @author: lad
@@ -10,6 +10,7 @@ package com.atguigu.单例;
  */
 public class Singleton01 {
     //饿汉模式
+    //设计模式
     private Singleton01(){
     }
     private static  Singleton01 Singleton01 = new Singleton01();
