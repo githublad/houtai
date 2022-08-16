@@ -2,6 +2,7 @@ package com.atguigu.单例;
 
 /**
  * 饿汉模式
+ *
  * 类加载时即会 创建对象
  * @version 1.0
  * @author: lad
